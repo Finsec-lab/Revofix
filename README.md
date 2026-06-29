@@ -27,8 +27,6 @@ A one-tap fix that lets Revolut run on your rooted phone.
 ## Works with
 
 ![Magisk](https://img.shields.io/badge/Magisk-323232?style=flat-square&logo=magisk&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-323232?style=flat-square)
-![APatch](https://img.shields.io/badge/APatch-323232?style=flat-square)
 
 ## Privacy
 
