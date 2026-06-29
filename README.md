@@ -20,11 +20,9 @@ A one-tap fix that lets Revolut run on your rooted phone.
 
 ## Install
 
-```sh
-adb install -r Revofix.apk
-```
-
-Open the app → **Grant** → **Install** → **Reboot**.
+1. Download the latest **Revofix.apk** from [Releases](https://github.com/Finsec-lab/Revofix/releases/latest).
+2. Tap the file to install.
+3. Open Revofix → **Grant** → **Install** → **Reboot**.
 
 ## Works with
 
@@ -34,14 +32,29 @@ Open the app → **Grant** → **Install** → **Reboot**.
 
 ## Privacy
 
-🔒 No permissions &nbsp;·&nbsp; ✈ Offline &nbsp;·&nbsp; 🎯 Per-process
+No permissions. Offline. Per-process scope.
 
 ## Donate
 
-[![BTC](https://img.shields.io/badge/BTC-bc1qxyzplaceholderfinseclab000000-323232?style=flat-square&logo=bitcoin&logoColor=white)](#)
-[![ETH](https://img.shields.io/badge/ETH-0x0000000000000000000000FinSecLab-323232?style=flat-square&logo=ethereum&logoColor=white)](#)
-[![USDT](https://img.shields.io/badge/USDT_(TON)-UQ__FinSecLab__TON__Placeholder000-323232?style=flat-square&logo=tether&logoColor=white)](#)
-[![IBAN](https://img.shields.io/badge/IBAN-XX00_0000_0000_0000_0000_00-323232?style=flat-square&logo=mastercard&logoColor=white)](#)
+![BTC](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+```
+bc1qxyzplaceholderfinseclab000000
+```
+
+![ETH](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+```
+0x0000000000000000000000FinSecLab
+```
+
+![USDT](https://img.shields.io/badge/USDT_(TON)-26A17B?style=for-the-badge&logo=tether&logoColor=white)
+```
+UQ_FinSecLab_TON_Placeholder000
+```
+
+![IBAN](https://img.shields.io/badge/IBAN-1A56DB?style=for-the-badge&logo=mastercard&logoColor=white)
+```
+XX00 0000 0000 0000 0000 00
+```
 
 <br/>
 
