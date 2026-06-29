@@ -49,11 +49,7 @@ No permissions. Offline. Per-process scope.
 <br/>
 
 <div align="center">
-
-<sub>Built with</sub>
-
-<img src="docs/img/languages.png" width="640" alt="Kotlin · Java · C++ · Shell · XML" />
-
+ 
 <br/><br/>
 
 <a href="https://t.me/FinSecLab"><img src="docs/img/icons/telegram.svg" width="22"/></a>
