@@ -2,27 +2,22 @@
 
 ## 1.0.3
 
-- Info tab restructured: About, Contact, Privacy (three sections).
-- Project scope narrowed to Revolut only.
-- Fixed: state misclassification when a pending uninstall marker was present.
-- Fixed: install failures with exit 0 now report as errors instead of "ready".
-- Fixed: uninstall now updates the UI immediately to "Installed — reboot to activate".
-- Fixed: install no longer hangs when root is unavailable.
+- Info tab cleaned up: About · Contact · Privacy.
+- Scope narrowed to Revolut.
+- Better state handling around install, reboot and uninstall.
+- Faster failure when root isn't available.
 
 ## 1.0.2
 
-- Added detection for the "no superuser prompt appeared" failure mode, with a
-  one-tap deep-link to the Magisk overlay permission settings page.
-- Added install fallbacks for KernelSU (`ksud`) and APatch (`apd`).
-- Added support for `/product/bin/magisk` (Samsung One UI 7+).
-- Wide-phone, tablet, foldable, and landscape layouts.
+- Detect when the root prompt never appeared and deep-link to the fix.
+- KernelSU and APatch install paths.
+- Tablet and landscape layouts.
 
 ## 1.0.1
 
-- Recoloured the primary action and brand to anthracite.
-- Rewrote state detection to correctly differentiate "ready", "installed –
-  reboot to activate", and "active".
+- New colour theme.
+- Cleaner state machine.
 
 ## 1.0.0
 
-- First public release.
+- First release.
